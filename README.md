@@ -1,0 +1,2 @@
+# KGNINJA
+Fundamental thinking
