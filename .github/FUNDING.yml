@@ -1,2 +1,4 @@
 buy_me_a_coffee: kgninja
-custom: ["https://paypal.me/KGNINJA"]
+custom:
+  - "https://paypal.me/KGNINJA"
+  - "https://buy.stripe.com/fZubJ0b7i03Wbp29Sz2Ji01"
